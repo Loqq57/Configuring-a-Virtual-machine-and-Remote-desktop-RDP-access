@@ -54,15 +54,20 @@ Next you will name your Virtual machine (Keep it related for organization purpos
 <p><img width="766" height="563" alt="image" src="https://github.com/user-attachments/assets/23565cd1-3274-4dd1-9ec3-403497d28af1" />
 </p>
 
-Now is when you decide which OS (Operating system) you will be using for your Virtual Machine. Within azure there are many to pick from for a multitude of uses, for this lesson we will simply use a windows 10 OS.
+Now is when you decide which OS (Operating system) you will be using for your Virtual Machine. Within Azure there are many to pick from for a multitude of uses, for this lesson we will simply use a windows 10 OS.
 <p><img width="806" height="494" alt="image" src="https://github.com/user-attachments/assets/93c9eee3-c4e3-4451-9d9e-3363d2874980" />
 </p>
 <p><img width="793" height="56" alt="image" src="https://github.com/user-attachments/assets/3054fb66-8c9a-4ac7-8e03-a3c984927c8f" />
 </p>
 
+When you create a Virtual Machine (VM) in Microsoft Azure, the “size” you choose is basically the hardware profile of that VM. It determines how powerful (and expensive) your VM will be.
+<p><img width="802" height="277" alt="image" src="https://github.com/user-attachments/assets/f4ba93a9-b2b7-4640-9081-5efbc11122db" />
+</p>
 
 
-
+!IMPORTANT! When creating your Username and password for your VM, make sure to record or write down what your credentials are for later use. It is very easy to get confused when you have multiple VM's deployed. Keeping record of each one as well as its name and resource group can cut down on time searching or becoming lost in your own work.
+<p><img width="814" height="166" alt="image" src="https://github.com/user-attachments/assets/6cdafa5f-52a2-46af-b270-5c306e9e02b3" />
+</p>
 
 
 
