@@ -31,7 +31,7 @@ Name it what you please click review and then create.
 <p><img width="856" height="827" alt="image" src="https://github.com/user-attachments/assets/d9db56ae-9d33-4de7-bbbb-f430e31889c6" />
 </p>
 
-Once created you will see it show up within the "Resource Groups" Tab
+Once created you will see it show up within the "Resource Groups" Tab. We named ours rdp-portfolio
 
 <p><img width="1660" height="351" alt="image" src="https://github.com/user-attachments/assets/cb77b204-e158-4a61-85d0-91f07f9d697b" />
 </p>
