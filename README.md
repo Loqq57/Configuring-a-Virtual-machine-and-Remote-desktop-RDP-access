@@ -124,5 +124,10 @@ You should find Public IP directly at the top.
 <p><img width="1348" height="653" alt="image" src="https://github.com/user-attachments/assets/66b7211a-69f2-4631-866a-ed42236476d7" />
 </p>
 
-
+Some key notes for understanding your virtual machine and how to "Turn it on or off"
+At the top of your Virtual Machines tab you will see "Start, Restart, and Stop" These are used to turn On or off your Virtual machine as well as restart it should you need to for any updates or current changes.
+To check the status of your Virtual machines you will also see a "Status" tab stating the current status of your Virtual Machine.
+As you can see I currently have 3 Virtual machines created. Two of which I am currently not using so I have stopped those and shut the service down to save money and our current server we just created is running.
+<p><img width="1667" height="653" alt="image" src="https://github.com/user-attachments/assets/2ea75695-a4a4-4d0f-856e-9893ee02bcb4" />
+</p>
 <br />
