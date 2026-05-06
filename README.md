@@ -159,6 +159,16 @@ REMEMBER, As stated earlier this is a good example of why we keep record of our 
 
 Click Yes
 <p><img width="408" height="480" alt="image" src="https://github.com/user-attachments/assets/1266a5a8-39ad-48e3-b9db-6bc9e1407004" />
-
-  
 </p>
+Welcome to your Virtual Machine!
+<p><img width="1918" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ea37d02-473b-4d50-ab80-46e7b4735d1f" />
+</p>
+
+When finished you can simply close the connection by logging out, or by closing your remote desktop connection application.
+<p><img width="449" height="211" alt="image" src="https://github.com/user-attachments/assets/5d214c01-ad35-4ab6-bdcf-76608e520866" />
+</p>
+
+!Important!
+Make sure when you are done using your virtual machines that you TURN THEM OFF.
+If kept running they will incur a cost. Whenever a Virtual machine is being used you pay for it the same way you'd pay an electrical bill.
+Pay-per-use. So do not leave anything running unless nessecary.
