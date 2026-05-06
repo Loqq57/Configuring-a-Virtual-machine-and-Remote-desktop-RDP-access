@@ -130,4 +130,9 @@ To check the status of your Virtual machines you will also see a "Status" tab st
 As you can see I currently have 3 Virtual machines created. Two of which I am currently not using so I have stopped those and shut the service down to save money and our current server we just created is running.
 <p><img width="1667" height="653" alt="image" src="https://github.com/user-attachments/assets/2ea75695-a4a4-4d0f-856e-9893ee02bcb4" />
 </p>
+
+Next we will navigate to our Remote Desktop Protocol.
+In the start menu simply type Remote Desktop Connection and it will pop up.
+<p><img width="386" height="929" alt="image" src="https://github.com/user-attachments/assets/671ee07c-5acd-403f-b558-b3feee62304a" />
+</p>
 <br />
