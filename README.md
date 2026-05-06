@@ -4,7 +4,7 @@
 </p>
 
 <h1>Configuring a Virtual machine and Remote desktop (RDP) access</h1>
-This tutorial outlines the system and usage surrounding Remote Desktop protocol usage.<br />
+This tutorial will guide you through setting up a virtual machine in Azure and using RDP, highlighting the key capabilities of Remote Desktop Protocol in action.<br />
 
 
 <h2>Environments and Technologies Used</h2>
