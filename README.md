@@ -23,15 +23,26 @@ This tutorial outlines the system and usage surrounding Remote Desktop protocol 
 - Microsoft Azure Account for Virtual machine deployment
 
 <h2>Installation Steps</h2>
+First start off by creating a resource group. A resource group is basically just a folder used to store and organize your work/servers.
 <p><img width="1122" height="330" alt="image" src="https://github.com/user-attachments/assets/b3c9832a-928e-47c0-992a-02bf0087fba8" /></p>
 
-First start off by creating a resource group. A resource group is basically just a folder used to store and organize your work/servers.
 
+Name it what you please click review and then create.
 <p><img width="856" height="827" alt="image" src="https://github.com/user-attachments/assets/d9db56ae-9d33-4de7-bbbb-f430e31889c6" />
 </p>
 
-Name it what you please click review and then create.
+Once created you will see it show up within the "Resource Groups" Tab
 
+<p><img width="1660" height="351" alt="image" src="https://github.com/user-attachments/assets/cb77b204-e158-4a61-85d0-91f07f9d697b" />
+</p>
+
+Then you will navigate to "Virtual Machines" which can be simply typed in the search bar at the top or along the side in the Directory.
+<p><img width="1101" height="292" alt="image" src="https://github.com/user-attachments/assets/394082dd-c3b0-4fe6-98dc-05fcf275e700" />
+</p>
+
+Now that we have navigated over to the virtual machines tab, lets take a look at how to properly set up a virtual machine within your resource group.
+
+<p></p>
 
 
 
