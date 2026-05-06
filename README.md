@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img width="1213" height="46" alt="image" src="https://github.com/user-attachments/assets/9e0d065c-41ca-4b5c-b9ea-ac36bc651bf9" />
 </p>
-First start off by creating your Virtual machine. Simply click create, virtual machine and you will find yourself in the set up menu.
+First start off by creating your Virtual machine. RDP into it and lets get started setting up OsTicket!
 <p></p>
 
 
