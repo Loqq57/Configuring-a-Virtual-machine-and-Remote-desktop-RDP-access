@@ -107,6 +107,9 @@ At the bottom click Review + Create and give it a few minutes for your Virtual M
 <p><img width="479" height="41" alt="image" src="https://github.com/user-attachments/assets/25ea82e9-1019-432e-bdce-c86438b43299" />
 </p>
 
+This is just a basic page upon validation with the information and pricing regarding your VM just Click Create at the bottom.
+<p><img width="817" height="825" alt="image" src="https://github.com/user-attachments/assets/fdac9c5e-eb6b-4acb-81fb-0dfb9dd10a7f" />
+</p>
 
 
 
