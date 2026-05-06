@@ -9,12 +9,18 @@ This tutorial outlines the system and usage surrounding Remote Desktop protocol 
 
 <h2>Environments and Technologies Used</h2>
 
+
 - Microsoft Azure (Virtual Machines/Compute)
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fbda3907-4a87-4acf-b319-cd1828a41769" />
+
+
 - Remote Desktop
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/587b2177-2242-41a1-835e-5215a49328cf" />
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (25H2)
+- Windows 11</b> (25H2) (Personal)
+- Windows 10 Enterprise (22H2) (VM)
 
 <h2>List of Prerequisites</h2>
 
