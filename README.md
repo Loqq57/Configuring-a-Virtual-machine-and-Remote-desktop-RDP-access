@@ -54,6 +54,14 @@ Next you will name your Virtual machine (Keep it related for organization purpos
 <p><img width="766" height="563" alt="image" src="https://github.com/user-attachments/assets/23565cd1-3274-4dd1-9ec3-403497d28af1" />
 </p>
 
+Now is when you decide which OS (Operating system) you will be using for your Virtual Machine. For this lesson we will simply use a windows 10 OS.
+<p><img width="798" height="62" alt="image" src="https://github.com/user-attachments/assets/62d924bb-d666-4dea-8789-3acbfe356304" />
+</p>
+<p><img width="806" height="494" alt="image" src="https://github.com/user-attachments/assets/93c9eee3-c4e3-4451-9d9e-3363d2874980" />
+</p>
+<p><img width="793" height="56" alt="image" src="https://github.com/user-attachments/assets/3054fb66-8c9a-4ac7-8e03-a3c984927c8f" />
+</p>
+
 
 
 
