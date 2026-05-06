@@ -70,7 +70,19 @@ When you create a Virtual Machine (VM) in Microsoft Azure, the “size” you ch
 </p>
 
 
+Finally click on Licensing. 
+When you’re creating a Virtual Machine in Azure, the “Licensing” option at the bottom is about how the operating system (usually Windows) is licensed—and whether you can save money by using a license you already own.
 
+If you CHECK it:
+You’re telling Azure:
+“I already own a valid Windows Server license”
+Azure won’t charge you for the Windows OS license
+You only pay for:
+Compute (CPU/RAM)
+Storage
+Networking
+
+This is called Azure Hybrid Benefit
 
 
 
