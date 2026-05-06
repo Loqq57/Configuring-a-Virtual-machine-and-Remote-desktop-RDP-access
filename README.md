@@ -48,7 +48,7 @@ First click create and select "Virtual Machine"
 <p><img width="368" height="173" alt="image" src="https://github.com/user-attachments/assets/7fa05527-3d67-4b31-88dd-8e5ec15bd4ce" />
 </p>
 
-Make sure to select the resource group you would like to organize the VM into. As you can see I have multiple resource groups for other projects and virtual machines I work with so organization is key. Remember we named ours rdp-portfolio so thats the one I will select
+Make sure to select the resource group you would like to organize the VM into. As you can see I have multiple resource groups for other projects and virtual machines I work with so organization is key. Remember we named ours rdp-portfolio so thats the one we will select
 <p><img width="750" height="259" alt="image" src="https://github.com/user-attachments/assets/84927cf2-1d22-4a4d-ab67-0b4c45beedc4" />
 </p>
 
