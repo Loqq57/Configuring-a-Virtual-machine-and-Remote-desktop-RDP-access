@@ -22,6 +22,7 @@ This tutorial outlines the system and usage surrounding Remote Desktop protocol 
 - Remote Desktop Connection (Usually preinstalled Software within Windows)
 - Microsoft Azure Account for Virtual machine deployment
 - A pre setup Azure account (Free or paid) This lesson is done on a FREE account.
+- https://azure.microsoft.com/
 
 <h2>Installation Steps</h2>
 First start off by creating a resource group. A resource group is basically just a folder used to store and organize your work/servers.
